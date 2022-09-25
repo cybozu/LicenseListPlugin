@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "swift-packages-parser",
             url: "https://github.com/cybozu/LicenseList/releases/download/0.1.6/swift-packages-parser-macos.artifactbundle.zip",
-            checksum: "ee54a64cdf3951b786617ea304d51438782d5d98c085abd01d0a75bb8ca578bb"
+            checksum: "29591d5ec6f02462e9248a69de7b30efccaa6ce0a7bce2c4aecabe68a20f3113"
         ),
         .plugin(
             name: "SwiftPackagesParser",
